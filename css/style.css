@@ -1,0 +1,55 @@
+* {
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px 10% 40px 10%;
+    background-color: rgb(39, 29, 17);
+}
+
+.name {
+    color: rgb(55, 95, 55);
+    font-size: 28px;
+}
+
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover{
+    color: rgb(55, 95, 55);
+}
+
+.me { 
+  width: 200px;
+  margin: 16px;
+  padding: 20px;
+
+}
+.about1 {
+    display: flexbox;
+    color: brown;
+}
+
+.resumespot {
+    border-color: 
+}
+
+.contactspot{
+flex: 4;
+ 
+}
